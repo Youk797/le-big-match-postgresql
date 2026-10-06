@@ -1,0 +1,4 @@
+sql/data/*.csv
+!sql/data/README.md
+!sql/data/.gitkeep
+.DS_Store
